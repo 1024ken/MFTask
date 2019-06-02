@@ -1,0 +1,6 @@
+framework module Pods_MFTask {
+  umbrella header "Pods-MFTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
